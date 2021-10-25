@@ -8,3 +8,10 @@ PROJET DE RECONNAISSANCE D'IMAGE
     Test avec les RNN (Réseaux de neurones classiques)
     Test avec CNN (Réseaux de neurones à convolution)
 
+Utilisation des librairies : 
+    sklearn
+    matplotlib
+    keras
+    cv2
+    
+    
