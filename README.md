@@ -1,8 +1,4 @@
-# Lina
-
-
-
-PROJET DE RECONNAISSANCE D'IMAGE
+# PROJET DE RECONNAISSANCE D'IMAGE
 
     Test avec Knn (algorithme des plus proches voisins)
     Test avec les RNN (Réseaux de neurones classiques)
