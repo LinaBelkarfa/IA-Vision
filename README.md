@@ -4,7 +4,7 @@
     Test avec les RNN (Réseaux de neurones classiques)
     Test avec CNN (Réseaux de neurones à convolution)
  
- Notebook détaillé : final.pynb
+Plus d'info dans le Notebook détaillé : IA_Project_Lina_BELKARFA.ipynb
 
 Utilisation des librairies : 
     sklearn
