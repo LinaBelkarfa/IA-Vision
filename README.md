@@ -7,9 +7,9 @@
 Plus d'info dans le Notebook détaillé : IA_Project_Lina_BELKARFA.ipynb
 
 Utilisation des librairies : 
-    sklearn
-    matplotlib
-    keras
-    cv2
+    * sklearn
+    * matplotlib
+    * keras
+    * cv2
     
     
